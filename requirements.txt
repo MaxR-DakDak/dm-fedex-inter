@@ -1,0 +1,8 @@
+zpl==0.1.8
+fedex==2.4.1
+Unidecode==1.2.0
+img2pdf==0.4.0
+requests==2.25.1
+beautifulsoup4==4.9.3
+Pillow==8.2.0
+PyPDF2==1.26.0
